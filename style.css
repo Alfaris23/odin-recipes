@@ -1,0 +1,22 @@
+.headline {
+    color: white;
+    background-color: mediumturquoise;
+    text-align: center;
+}
+
+.recipe-name {
+    color: white;
+    background-color: darkgreen;
+}
+
+.description, 
+.ingredients,
+.steps   {
+    color: white;
+    background-color: brown;
+}
+
+.ingredients,
+.steps {
+    font-weight: 100;
+}
